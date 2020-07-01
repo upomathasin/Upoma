@@ -34,22 +34,8 @@ section {
     height:500px;
     padding-bottom: 100px;
 }
-.link-button {
-    text-decoration: none;
-    background-color:red;
-    padding:10px 20px;
-    border-radius: 5px;
-    color: white;
-    font-weight: 700;
-    background-image: linear-gradient(45deg,lightsalmon,tomato);
 
-}
-.dream
-{
-    background-image: url(dream-bg.png);
-    background-repeat:no-repeat;
-    background-position: right;
-}
+
 .single-exper {
 box-shadow: 10px 10px rgb(156, 155, 155);
 border-radius: 5px;
@@ -74,4 +60,25 @@ background-position:left;
     border-image:linear-gradient(180deg,blue,cyan) ;
 
       border-image-slice: 1;
+
 }
+
+.link-button {
+    text-decoration: none;
+    background-color:red;
+    padding:10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+
+}
+.dream
+{
+    background-image: url(dream-bg.png);
+    background-repeat:no-repeat;
+    background-position: right;
+}
+
+
+
